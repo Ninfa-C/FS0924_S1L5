@@ -1,0 +1,202 @@
+html,
+body {
+    min-width: 450px;
+    max-width: 500px;
+    font-family: "Open Sans", sans-serif;
+    color: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.65;
+}
+
+header {
+    width: auto;
+    height: 20vh;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    box-sizing: border-box;
+    padding: 2.1rem;
+}
+
+.logo {
+    height: 100%;
+}
+
+header img {
+    height: 100%;
+}
+
+.headings,
+.list dt {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #25A2C3;
+}
+
+.title {
+    background-image: url(/Mobile/assets/img/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 72vh;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.titlecontainer {
+    padding: 3.5em 1.7em;
+}
+
+.titlecontainer h1 {
+    font-size: 2.3rem;
+    line-height: 1;
+}
+
+.titlecontainer p {
+    margin-top: 1rem;
+}
+
+.titlecontainer button {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    background-color: #f04c2f;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 0.4rem;
+    border: none;
+    margin-top: 2.8rem;
+    cursor: pointer;
+}
+
+.section2 {
+    text-align: center;
+    padding: 2.3rem;
+}
+
+.s2img img {
+    border-radius: 50%;
+    width: 80%;
+
+}
+
+.list {
+    padding: 4vh 0;
+}
+
+.list dd {
+    line-height: 1.8;
+    padding: 1rem 0;
+}
+
+.list dt {
+    font-size: 1.3rem;
+}
+
+.quote {
+    font-family: "Montserrat", sans-serif;
+    background-color: #e22d0e;
+    height: 35vh;
+    color: white;
+    text-align: center;
+    padding: 10vh 0;
+    font-size: 1.7rem;
+}
+
+strong {
+    font-weight: bold;
+    font-size: 2.2rem;
+}
+
+.cit {
+    font-style: italic;
+    font-size: 1rem;
+    padding-top: 1rem;
+
+}
+
+.author p {
+    margin-top: 2rem;
+    font-size: 1.3rem;
+    line-height: 1.3;
+}
+
+.littlename {
+    font-size: 0.9rem;
+    font-weight: light;
+}
+
+.grid {
+    text-align: center;
+    padding: 3em 1rem;
+}
+
+.article {
+    height: 68vh;
+    border: 1px solid #dee1e3;
+    border-radius: 0.2rem;
+    margin-bottom: 2rem;
+}
+
+.imgpreview {
+    width: 100%;
+    height: 60%;
+
+}
+
+.imgpreview img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.textarticle {
+    font-size: 1.1rem;
+    padding: 1.3rem 0;
+}
+
+.textarticle p {
+    margin-top: 0.5rem;
+}
+
+footer {
+    background-color: #25A2C3;
+    height: 61vh;
+    text-align: center;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 7vh;
+    font-size: 1.2rem;
+    color: #c2e2eb;
+
+}
+
+footer div {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.contact {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    font-size: 2.1rem;
+    color: #FFFFFF;
+    margin-bottom: 1rem;
+}
+
+a:link,
+:visited {
+    color: #c2e2eb
+}
+
+footer ul {
+    padding-bottom: 1.5rem;
+    border-bottom: #FFFFFF 1px solid;
+    list-style-type: none
+}
+
+.copyright {
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 1.5rem;
+}
