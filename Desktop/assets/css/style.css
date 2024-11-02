@@ -24,7 +24,7 @@ header img {
 }
 
 .title {
-    background-image: url(/assets/img/banner.jpg);
+    background-image: url(/Desktop/assets/img/banner.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     min-height: 83vh;
@@ -115,11 +115,10 @@ em {
         height:62vh;
         border: 1px solid #dee1e3 ;
         margin: 0.8em;
-        box-sizing: border-box;
     }
+
     .imgpreview{
-        width: 100%;
-        height: 67%;
+        height: 70%;
     
     }
     .imgpreview img {
@@ -129,22 +128,14 @@ em {
     }
 
     .textarticle {
-        padding: 3%;
-    }
-
-    .textarticle{
+        padding: 2vh;
         font-size:1rem;
-        margin: 1em;
     }
 
-    .textarticle {
-        padding: 3%;
+    .textarticle p{
+        margin-top: 0.5rem;
     }
 
-    .textarticle{
-        font-size:1rem;
-        margin: 1em;
-    }
 
     footer{
         background-color: #25A2C3;

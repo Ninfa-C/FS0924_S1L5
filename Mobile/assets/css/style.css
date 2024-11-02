@@ -37,7 +37,7 @@ header img {
     background-image: url(/Mobile/assets/img/banner.jpg);
     background-size: cover;
     background-position: center;
-    height: 72vh;
+    min-height: 72vh;
     box-sizing: border-box;
     text-align: center;
 }
